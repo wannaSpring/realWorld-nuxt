@@ -321,7 +321,7 @@ export function normalizeError (err) {
 }
 
 /**
- * The main path matching regexp utility.
+ * The main.yml.yml path matching regexp utility.
  *
  * @type {RegExp}
  */

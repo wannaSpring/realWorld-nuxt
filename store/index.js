@@ -1,4 +1,4 @@
-const cookieparser = process.server ? require('cookieParser') : undefined
+const cookieparser = process.server ? require('cookieparser') : undefined
 // 初始化state，并且向外导出
 export const state = () => {
     return {

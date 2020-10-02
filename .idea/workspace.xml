@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c860d02-f939-43fa-a8a8-1420300753fd" name="Default Changelist" comment="" />
+    <list default="true" id="3c860d02-f939-43fa-a8a8-1420300753fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/5a4ef65.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/client/5a4ef65.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/e942b5b.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/client/e942b5b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/4.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/index.spa.html" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/index.spa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/index.ssr.html" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/index.ssr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.html" beforeDir="false" afterPath="$PROJECT_DIR$/app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/realworld-nuxtjs.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/store/index.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +25,12 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hnr2oouuVHT94dpTvOh6kb9Xk8" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/api" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -67,10 +83,22 @@
       <workItem from="1601131571596" duration="3313000" />
       <workItem from="1601393297277" duration="1000" />
       <workItem from="1601429673170" duration="482000" />
+      <workItem from="1601623012425" duration="786000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
